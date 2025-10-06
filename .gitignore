@@ -1,0 +1,20 @@
+/node_modules
+/public/hot
+/public/images/*
+/public/invoices/*
+<<<<<<< HEAD
+/public/frontend/images/*
+=======
+>>>>>>> develop
+/storage/*.key
+/vendor
+*.zip
+.env
+.env.backup
+.phpunit.result.cache
+.vscode
+Homestead.json
+Homestead.yaml
+npm-debug.log
+yarn-error.log
+/public/stock_count
